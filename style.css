@@ -1,0 +1,87 @@
+
+.navbar {
+    margin-left: 600px;
+}
+.logo img{
+    width: 120px;
+}
+.bg-light {
+    background-color: #ffffff !important;
+}
+.container{
+    /* margin-bottom: 50px; */
+}
+.alingments{
+    /* position: relative; */
+
+    top: 200px;
+}
+#phone h1{
+ display: inline-block;
+}
+.aside-phara{
+  text-align:right ;
+  color: hotpink;
+}
+
+.card-title {
+    text-align: center;
+    
+}
+.card-body p,h6{
+    text-align: center;
+}
+a.sell-btn{
+    text-decoration: none;
+    background-color: hotpink;
+    padding: 5px 20px;
+   border-radius: 5px;
+    text-align: center;
+    display: block;
+    color: #ffffff;
+}
+.price{
+    color: magenta;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 30px lightgray;
+}
+.bueuty{
+    width: 100%;
+    padding: 30px 20px;
+    background-color: whitesmoke;
+    margin-top: 25px;
+}
+.bueuty img{
+    margin-left: 20px;
+    padding: 5px 0;
+}
+.bag img{
+    width: 100%;
+   
+    
+}
+.bag{
+    width: 100%;
+    height: 300px;
+    padding: 50px 20px;
+    background-color: whitesmoke;
+    margin-top: 25px;
+}
+.cat-h1 {
+    text-align: center;
+    display: block;
+    
+}
+.blank-div{
+    width: 100px;
+    height: 7px;
+    border-radius: 5px;
+    background-color: orange;
+    position: relative;
+    margin-bottom: 40px;
+    left: 45%;
+    top: 5px;
+
+}
